@@ -79,30 +79,6 @@ http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
 #EXTINF:-1,第一财经
 http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-#EXTINF:-1,Today’s Hits
-http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
-#EXTINF:-1,Pop Hits
-http://rfcmedia.streamguys1.com/newpophitspremium.mp3
-#EXTINF:-1,Alternative Hits
-http://rfcmedia.streamguys1.com/alternativehitspremium.mp3
-#EXTINF:-1,Country Hits
-http://rfcmedia.streamguys1.com/countryhitspremium.mp3
-#EXTINF:-1,Country Roads
-http://rfcmedia.streamguys1.com/countryroadspremium.mp3
-#EXTINF:-1,Relax & Unwind
-http://rfcmedia.streamguys1.com/relaxationpremium.mp3
-#EXTINF:-1,Smooth Jazz
-http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
-#EXTINF:-1,The Hit List
-http://rfcmedia.streamguys1.com/srhitlist.mp3
-#EXTINF:-1,Dance One
-http://rfcmedia.streamguys1.com/srdanceone.mp3
-#EXTINF:-1,Disco Beats
-http://rfcmedia.streamguys1.com/srdiscobeats.mp3
-#EXTINF:-1,Today's Country Hits
-http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
-#EXTINF:-1,Coffee House
-http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
 #EXTINF:-1,DRHK
 http://sc.digitalradiohk.net:8394
 #EXTINF:-1,One FM
@@ -123,7 +99,7 @@ https://crystalout.surfernetwork.com:8001/KVSP_MP3
 http://sk.cri.cn/am846.m3u8
 #EXTINF:-1,Capital FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM.mp3
-#EXTINF:-1,YES FM
+#EXTINF:-1,Yes FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac
 #EXTINF:-1,NPR News
 http://npr-ice.streamguys1.com/live.mp3
@@ -131,8 +107,8 @@ http://npr-ice.streamguys1.com/live.mp3
 http://tunein.ord.streamguys1.com/secure-aljazeera-english
 #EXTINF:-1,BBC News
 https://utulsa.streamguys1.com/KWGSHD3-MP3
-#EXTINF:-1,NER
-https://cast.ner.gov.tw/1
+#EXTINF:-1,CNN News
+http://tunein.ord.streamguys1.com/secure-CNNi
 #EXTINF:-1,LBC News 
 https://icecast.thisisdax.com/LBCNewsUKMP3
 #EXTINF:-1,LBC UK
