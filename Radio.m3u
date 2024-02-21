@@ -8,7 +8,9 @@ http://ls.qingting.fm/live/333.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj974.png" group-title="音乐广播",北京音乐广播
 http://ls.qingting.fm/live/332.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJCSGB.png" group-title="综合广播",北京城市广播
-http://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
+https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/BJTYGB.png" group-title="综合广播",北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/bj969.png" group-title="音乐广播",北京经典调频
 http://live.funhillrm.com/4/sd/live.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/ez.png" group-title="综合广播",CRI轻松调频
@@ -16,7 +18,7 @@ http://sk.cri.cn/915.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hyhq.png" group-title="综合广播",CRI华语环球
 http://sk.cri.cn/hyhq.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/hqzx.png" group-title="综合广播",CRI环球资讯 
-https://live-play.cctvnews.cctv.com/cctvaudio/hqzx.m3u8
+http://sk.cri.cn/905.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/nhzs.png" group-title="综合广播",CRI南海之声
 https://sk.cri.cn/nhzs.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cgtnradio.png" group-title="综合广播",CRI英语资讯
@@ -115,8 +117,6 @@ http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20190321/1553157038145.jpg" group-title="网络广播",安全百科
 http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/ZGHYGB.png" group-title="网络广播",中国华艺广播
-http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241956312964.png" group-title="网络广播",潮流音悦台
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com//files/images/2017/12/14/1513241973460940.png" group-title="网络广播",80后音悦台
