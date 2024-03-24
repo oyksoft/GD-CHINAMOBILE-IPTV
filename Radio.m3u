@@ -51,8 +51,6 @@ http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/TZGBDT.png" group-title="综合广播",台中广播电台
 http://211.20.119.101:8081
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/RTHK.png" group-title="综合广播",RTHK香港电台
-https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNLYGB.png" group-title="综合广播",湖南旅游广播
 https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HNWYGB.png" group-title="综合广播",湖南文艺广播
@@ -101,6 +99,8 @@ http://live.cooltv.top/tv/news1296.php?id=4
 http://hls.njgb.com/live_hls/8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/HBWYGB.png" group-title="综合广播",河北文艺广播
 http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/全国广播.png" group-title="网络广播",全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/files/images/2017/12/14/1513241848889285.png" group-title="网络广播",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cmsres.dianzhenkeji.com/anonymous/2021/12/9/d3f12c8e93c7506d60198c3484dbeb93.png" group-title="网络广播",天籁国风

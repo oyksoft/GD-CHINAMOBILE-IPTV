@@ -1,106 +1,90 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CNNinternational" tvg-logo="https://epg.112114.xyz/logo/CNN国际.png" group-title="国际",CNN News
-http://38.96.178.201:80/live/CNNHD/index.m3u8
-#EXTINF:-1 tvg-id="Foxnewyork" tvg-name="Foxnewyork" tvg-logo="https://epg.112114.xyz/logo/FOX5.png" group-title="国际",FOX New York
-http://38.96.178.201:80/live/FOXHD/index.m3u8
-#EXTINF:-1 tvg-id="Foxnews" tvg-name="Foxnews" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="国际",FOX News
-http://38.96.178.201:80/live/FOXNEWS/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/LNF.png" group-title="国际",Live Now FOX
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="nbcnewyork" tvg-name="nbcnewyork" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="国际",NBC New York
-http://38.96.178.201/live/NBCHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/OAN.png" group-title="国际",One America News
-http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="国际",BBC America
-http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-#EXTINF:-1 tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="国际",ABC News
-http://38.96.178.201:80/live/ABCHD/index.m3u8
-#EXTINF:-1 tvg-id="ESPNNews" tvg-name="ESPNNews" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="国际",ESPN News
-http://38.96.178.201:80/live/ESPNews/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2021/01/21/large/20210121205319348415_63.png" group-title="国际",Newsmax
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="CBSNews" tvg-name="CBSNews" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="国际",CBS News
-http://38.96.178.201:80/live/CBS/index.m3u8
-#EXTINF:-1 tvg-id="DubaiONe" tvg-name="DubaiOne" tvg-logo="https://i.ibb.co/ZMpn1rR/IMG-20240126-093957.png" group-title="国际",Dubai One 
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="国际",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",CNA 
+#EXTINF:-1 group-title="国际",CNN
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="国际",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="国际",GB News
-https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
-#EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="国际",RT News
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan" tvg-name="NHKWorldJapan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png" group-title="国际",NHK World 
+#EXTINF:-1 group-title="国际",ABC News Live
+https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+#EXTINF:-1 group-title="国际",Live Now FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",NBC News Now
+https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+#EXTINF:-1 group-title="国际",Sky News
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+#EXTINF:-1 group-title="国际",ABC7 Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+#EXTINF:-1 group-title="国际",CBS News Bay Area
+https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+#EXTINF:-1 group-title="国际",Euronews Live
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+#EXTINF:-1 group-title="国际",AXS TV Now 
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="国际",ABC Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="国际",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="国际",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="国际",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ted.png" group-title="国际",TED
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TheGuardian.png" group-title="国际",The Guardian Channel
-https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/RedBullTV.png" group-title="国际",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="国际",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际",Brics Chinese 
-http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="国际",Brics English 
-http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="国际",TRT World
-https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="国际",Animal Planet
-http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://epg.112114.xyz/logo/Love Nature.png" group-title="国际",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="国际",Food Network
-http://38.96.178.201:80/live/FoodNetwork/index.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="国际",Discovery Channel
-http://38.96.178.201:80/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://epg.112114.xyz/logo/PK.png" group-title="国际",PBS Kids
-http://38.96.178.201:80/live/PBSKIDS/index.m3u8
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney Channel
-http://38.96.178.201:80/live/Disney/index.m3u8
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="国际",Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/DISNEYXD.png",group-title="国际",Disney XD
-http://38.96.178.201:80/live/DisneyXD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/img/logo/1_190.jpg" group-title="国际",Cartoon Network
-http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="国际",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304234949121822_43.png" group-title="国际",ESPN HD
-http://38.96.178.201:80/live/ESPNHD/index.m3u8
-#EXTINF:-1 tvg-id="arirang" tvg-name="arirang" tvg-logo="https://epg.112114.xyz/logo/ARIRANGTV.png" group-title="国际",Arirang
+#EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="KBSWORLD" tvg-name="KBSWORLD" tvg-logo="https://epg.112114.xyz/logo/KBSW.png" group-title="国际",KBS World
+#EXTINF:-1 group-title="国际",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="国际",NBA
-http://38.96.178.201/live/NBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FN.png" group-title="国际",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LiExax0.png" group-title="国际",Football
-http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
-#EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="国际",History
-http://38.96.178.201:80/live/History/index.m3u8
-#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://epg.112114.xyz/logo/SYFY.png" group-title="国际",SYFY
-http://38.96.178.201:80/live/SYFYHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="国际",Star Movies
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yc5Nmmc/IMG-20240126-094355.png" group-title="国际",Movies Now
-http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="国际",Cinemax East
-http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-#EXTINF:-1 group-title="国际",Universal Televison
-http://zb.xzxwhcb.com:9999/hls/world.m3u8
-#EXTINF:-1 group-title="国际",Hoy TV
-http://51.89.21.73:27347/livehttpplay?channel_id=20152
-#EXTINF:-1 group-title="国际",AMC
-http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg Asia
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1 group-title="国际",Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+#EXTINF:-1 group-title="国际",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="国际",GB News
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+#EXTINF:-1 group-title="国际",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",TBS 
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="FXXEast.us" group-title="国际",FXX
+http://livex.pop-app.live/s4n/poplive/ch523/playlist.m3u8
 #EXTINF:-1 group-title="国际",A&E
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
+#EXTINF:-1 group-title="国际",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="国际",Star
+http://170.254.18.106/STAR/index.m3u8
+#EXTINF:-1 group-title="国际",BET
+http://170.254.18.106/BET/index.m3u8
+#EXTINF:-1 group-title="国际",TNT
+http://170.254.18.106/TNT/index.m3u8
+#EXTINF:-1 group-title="国际",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="国际",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="国际",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="国际",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="国际",ION Plus
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+#EXTINF:-1 group-title="国际",ION 
+https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+#EXTINF:-1 group-title="国际",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="国际",Disney International
+http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+#EXTINF:-1 group-title="国际",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="国际",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="国际",Star Movies
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+#EXTINF:-1 group-title="国际",Movies Now
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="国际",BBC America
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="国际",Cinemax East
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
 #EXTINF:-1 group-title="国际",HBO
 http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 #EXTINF:-1 group-title="国际",HBO Plus
@@ -118,4 +102,32 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 group-title="国际",Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+#EXTINF:-1 group-title="国际",Clarity 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+#EXTINF:-1 group-title="国际",Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 group-title="国际",Nickelodeon
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="国际",History
+http://170.254.18.106/HISTORY/index.m3u8
+#EXTINF:-1 group-title="国际",Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8 
+#EXTINF:-1 group-title="国际",HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+#EXTINF:-1 group-title="国际",Cinemax
+http://170.254.18.106/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Comedy
+https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Family
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Sky Sport
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="国际",Stadium
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1 group-title="国际",FIFA+
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 group-title="国际",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
