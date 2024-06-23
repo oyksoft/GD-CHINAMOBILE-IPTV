@@ -81,10 +81,10 @@ https://radio.pull.hebtv.com/live/hebqcyy.m3u8
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
 #EXTINF:-1 tvg-id="广州汽车音乐电台" tvg-name="广州汽车音乐电台" tvg-logo="https://img-ossimg-qn.ajmide.com/program/29715-1GGmaZ_550x550.jpg" group-title="音乐广播",广州汽车音乐
 https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
-#EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
+#EXTINF:-1 tvg-id="深圳音乐广播" tvg-name="深圳音乐广播" tvg-logo="https://img-ossimg-qn.ajmide.com/program/1EGoGw.png" group-title="音乐广播",深圳音乐广播
 https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
-#EXTINF:-1 tvg-logo="https://ytmedia.radio.cn/CCYT%2F202207%2F18%2F11%2Ff2022071811624.jpg" group-title="音乐广播",宜昌音生广播
-http://play.3xgd.com/fm/qct.m3u8
+#EXTINF:-1 tvg-id="AFORadio" tvg-name="AFORadio" tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="音乐广播", AFO Radio
+https://stream.rcs.revma.com/7x3gv2y4bshvv
 #EXTINF:-1 tvg-logo="http://pic.qtfm.cn/2022/1212/20221212113007.jpeg" group-title="音乐广播",江西故事广播
 http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/jd947.png" group-title="音乐广播",上海音乐广播
@@ -139,8 +139,8 @@ http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 http://mediaprima.rastream.com/mediaprima-onefm
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/inews.png" group-title="境外广播",BCC中广新闻 
 http://n12.rcs.revma.com/78fm9wyy2tzuv
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/FM987.png" group-title="境外广播",FM 987
-http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/988fm.png" group-title="境外广播",FM 988
+https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/GOLDFM.png"group-title="境外广播",Gold FM
 http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MONEYFM.png"group-title="境外广播",Money FM
@@ -175,8 +175,8 @@ https://icecast.thisisdax.com/LBCNewsUKMP3
 http://timesradio.wireless.radio/stream
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/world.png" group-title="境外广播",BBC News
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logog.png?t=1" group-title="境外广播",CNN News
-http://tunein.ord.streamguys1.com/secure-CNNi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外广播",RFI
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/NEWSRADIOUK.png"group-title="境外广播",News Radio UK
 http://playoutonestreaming.com:8008/stream
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/1.png" group-title="境外广播",BBC Radio 1
