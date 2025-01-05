@@ -140,7 +140,7 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000008/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1  tvg-name="华数4K"  tvg-logo="https://epg.iill.top/logo/%E5%8D%8E%E6%95%B04K.png" tvg-logo="" group-title="数字频道",华数4K
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1  tvg-name="纯享4K"  tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/纯享4K.png" tvg-logo="" group-title="数字频道",纯享4K
+#EXTINF:-1  tvg-name="纯享4K"  tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/纯享4K.png" group-title="数字频道",纯享4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8?livemode=1
 #EXTINF:-1  tvg-name="中国天气" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94.png" group-title="数字频道",中国天气
 http://[2409:8087:5e08:24::d]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
@@ -156,7 +156,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 #EXTINF:-1  tvg-name="精彩影视" tvg-logo="https://epg.iill.top/logo/精彩影视.png" group-title="数字频道",精彩影视
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1  tvg-name="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道",新视觉HD
+#EXTINF:-1  tvg-name="新视觉HD" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道",新视觉HD
 http://120.76.248.139/live/bfgd/4200000249.m3u8?livemode=1
 #EXTINF:-1  tvg-name="纪实科教" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:5e08:24::d]:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
