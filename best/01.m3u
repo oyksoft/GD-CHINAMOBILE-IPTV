@@ -175,39 +175,39 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000007/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/纪实人文.png" group-title="数字频道",纪实人文
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/哒啵赛事.png" group-title="数字频道",哒啵赛事
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E5%93%92%E5%95%B5%E8%B5%9B%E4%BA%8B.png" group-title="数字频道",哒啵赛事
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/哒啵电竞.png" group-title="数字频道",哒啵电竞
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E5%93%92%E5%95%B5%E7%94%B5%E7%AB%9E.png" group-title="数字频道",哒啵电竞
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/黑莓电影.png" group-title="数字频道",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="数字频道",黑莓电影
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/黑莓动画.png" group-title="数字频道",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="数字频道",黑莓动画
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/魅力足球.png" group-title="数字频道",魅力足球
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="数字频道",魅力足球
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E4%B9%90%E6%B8%B8.png" group-title="数字频道",乐游频道
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/欢笑剧场.png" tvg-name="欢笑剧场" group-title="数字频道",欢笑剧场
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA.png" tvg-name="欢笑剧场" group-title="数字频道",欢笑剧场
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/法治天地.png" tvg-name="法治天地" group-title="数字频道",法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E6%B3%95%E6%B2%BB%E5%A4%A9%E5%9C%B0.png" tvg-name="法治天地" group-title="数字频道",法治天地
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/动漫秀场.png" tvg-name="动漫秀场" group-title="数字频道",动漫秀场
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" tvg-name="动漫秀场" group-title="数字频道",动漫秀场
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/游戏风云.png" tvg-name="游戏风云" group-title="数字频道",游戏风云
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E6%B8%B8%E6%88%8F%E9%A3%8E%E4%BA%91.png" tvg-name="游戏风云" group-title="数字频道",游戏风云
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/生活时尚.png" tvg-name="生活时尚" group-title="数字频道",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" tvg-name="生活时尚" group-title="数字频道",生活时尚
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/都市剧场.png" tvg-name="都市剧场" group-title="数字频道",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/金色学堂.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="数字频道",南国都市
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%82.png" group-title="数字频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/睛彩篮球.png" group-title="数字频道",睛彩篮球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E7%9D%9B%E5%BD%A9%E7%AF%AE%E7%90%83.png" group-title="数字频道",睛彩篮球
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/睛彩竞技.png" group-title="数字频道",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E7%9D%9B%E5%BD%A9%E7%AB%9E%E6%8A%80.png" group-title="数字频道",睛彩竞技
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/睛彩青少.png" group-title="数字频道",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E7%9D%9B%E5%BD%A9%E9%9D%92%E5%B0%91.png" group-title="数字频道",睛彩青少
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/睛彩广场舞.png" group-title="数字频道",睛彩广场舞
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E.png" group-title="数字频道",睛彩广场舞
 http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3
