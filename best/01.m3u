@@ -37,11 +37,11 @@ http://[2409:8087:5e08:24::16]:6610/000000001000/1000000006000233001/index.m3u8?
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
 http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="直播中国" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/直播中国.png" group-title="央视频道",直播中国
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv1.jpg" group-title="央视频道",CETV-1 综合教育
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/CETV1.png" group-title="央视频道",CETV-1 综合教育
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv4.jpg" group-title="央视频道",CETV-4 职业教育
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/CETV4.png" group-title="央视频道",CETV-4 职业教育
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://www.tvchinese.net/uploads/tv/cgtnnews.jpg" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
 
 #卫视频道
@@ -203,7 +203,7 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000011/index.m3u8
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/金色学堂.png" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://[2409:8087:5e00:24::029]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="数字频道",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
