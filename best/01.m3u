@@ -161,7 +161,6 @@ http://[2409:8087:5e00:24::029]:6610/000000001000/2000000004000000063/index.m3u8
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:5e08:24::d]:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
-#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/hunan/Hunan9.png" group-title="数字频道",金鹰纪实
 http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://ghgo.xyz/https://raw.githubusercontent.com/oyksoft/GD-CHINAMOBILE-IPTV/main/tv-logo/茶.png" group-title="数字频道",茶友频道
